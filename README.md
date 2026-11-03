@@ -1,0 +1,2 @@
+# Spendwise-
+Calculate daily expenses 
