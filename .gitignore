@@ -4,3 +4,6 @@ dist/
 .dart_tool/
 .gradle/
 .godot/
+
+# MGB internal state
+.mobileide/
